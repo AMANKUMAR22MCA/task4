@@ -40,7 +40,8 @@ frontend
 
 view
 
-![server details](https://github.com/AMANKUMAR22MCA/task4/assets/126316303/e7d7b93d-52af-4257-9280-
+
+![server details](https://github.com/AMANKUMAR22MCA/task4/assets/126316303/8271ceba-96a2-466c-a310-830d77ab21e4)
 
 add user
 ![add user](https://github.com/AMANKUMAR22MCA/task4/assets/126316303/3e65ead4-e455-4b7a-becb-607108019126)
