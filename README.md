@@ -1,5 +1,6 @@
 # cant upload node modules as github unable to upload more than 100 files
-
+# React js used anyone can craete their project using npx create react-app yourapp
+# add the folders from this files 
 
 
 
