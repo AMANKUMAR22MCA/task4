@@ -37,8 +37,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 frontend
 ![front](https://github.com/AMANKUMAR22MCA/task4/assets/126316303/65aa6e74-1cec-4455-9df7-336a9661e730)
 
-edit user
-frontend![edit user](https://github.com/AMANKUMAR22MCA/task4/assets/126316303/de24e925-74c4-4524-b0f8-a52d9096561c)
+
 
 add user
 ![add user](https://github.com/AMANKUMAR22MCA/task4/assets/126316303/3e65ead4-e455-4b7a-becb-607108019126)
